@@ -1,4 +1,4 @@
-# neural.c
+# neuralc
 
 > A didactic neural network implementation in C — written to mirror the theory, not to win benchmarks.
 
@@ -38,7 +38,7 @@ This is an educational library that implements a fully-connected feedforward neu
 
 Most neural network frameworks are intentionally opaque at the implementation level — and rightly so, because production code optimizes for performance and generality. This makes them poor learning tools if you want to understand what's actually happening during training.
 
-`neural.c` takes the opposite approach: **the code is the explanation**. Each component corresponds 1-to-1 with its theoretical counterpart:
+`neuralc` takes the opposite approach: **the code is the explanation**. Each component corresponds 1-to-1 with its theoretical counterpart:
 
 | Theory | Code |
 |---|---|
@@ -403,3 +403,7 @@ If you want to understand the theory behind this code more deeply:
 ## License
 
 Do whatever you want with this. It's a learning tool.
+
+---
+
+> "This README was written by Claude AI"
