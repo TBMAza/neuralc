@@ -406,4 +406,4 @@ Do whatever you want with this. It's a learning tool.
 
 ---
 
-> This README was written by Claude AI
+> This README is written by Claude AI
